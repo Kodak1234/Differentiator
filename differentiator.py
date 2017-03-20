@@ -87,14 +87,6 @@ class DiffQ(object):
 
 
 
-q = DiffQ("24x2")
-print(q.solve())
-
-
-
-
-
-
 
 
 
